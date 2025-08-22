@@ -15,7 +15,7 @@ model = model.to(device)
 print(f"Dispositivo: {device}")
 
 # Carregar imagem LOCAL
-caminho_da_imagem = "paletes/palete2.jpeg"
+caminho_da_imagem = "paletes/palete6.jpg"
 
 # Criar pasta para salvar resultados
 pasta_resultados = "profundidade"
